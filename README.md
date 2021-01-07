@@ -19,3 +19,17 @@ i.e. Sales = 11.174 + 0.2025*1000 = 56.44 units. This represents a sales of $213
 
 Summary of model1 
 
+Residuals:
+Min         1Q      Median       3Q      Max 
+-18.8766  -2.5589   0.9248   3.3330   9.8173 
+
+Coefficients:
+            Estimate   Std. Error  t value  Pr(>|t|)    
+(Intercept) 11.17397    0.67548  16.542   <2e-16 ***
+facebook     0.20250    0.02041   9.921   <2e-16 ***
+
+Signif. codes:  0  '***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5.13 on 198 degrees of freedom
+Multiple R-squared:  0.332,	Adjusted R-squared:  0.3287 
+F-statistic: 98.42 on 1 and 198 DF,  p-value: < 2.2e-16
