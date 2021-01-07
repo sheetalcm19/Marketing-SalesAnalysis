@@ -64,4 +64,3 @@ confint(model1)
 
 #Get Summary of the Linear Regression Model
 summary(model1)
-
