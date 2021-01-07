@@ -7,7 +7,7 @@ Coefficients:
 (Intercept)     facebook  
     11.1740       0.2025 
     
-The estimated regression line is: Sales=11.174+0.2025*Facebook+Ïµ
+The estimated regression line is: Sales=11.174+0.2025*Facebook+e
 The intercept(b0) is 11.174 and can be interpreted as the predicted dollar sales value 
 for a Facebook advertising budget value of zero. So for a Facebook advertising budget equal 
 to zero, we can expect sales of 11.174 *1000 = $11,174.
